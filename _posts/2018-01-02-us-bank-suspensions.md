@@ -11,7 +11,8 @@ Definition of Bank Suspensions
 "Bank suspensions comprise all banks closed to the public, either temporarily or permanently bysupervisory authorities or by the banks'boards of directors on account of financial difficulties, whether on a so-called moratoriumbasis or otherwise, unless the closing wasunder a special bank holiday declared by civilauthorities. If a bank closed under a specialholiday declared by civil authorities and re-mained closed only during such holiday orpart thereof, it has not been counted as abank suspension. Banks which, without ac-tually closing, obtained agreements from de-positors to waive a portion of their depositsor to defer the withdrawal of a portion oftheir deposits have not been classed as sus-pensions. Banks which were reopened ortaken over by other institutions after sus-pension have been included as suspensions.The figures for 1933 include all banks notgranted licenses following the banking holi-day in March 1933 which were subsequentlyplaced in liquidation or receivership (includ-ing unlicensed banks absorbed or succeededby other banks), and all other unlicensedbanks which were not granted licenses toreopen by June 30, 1933." Bank Suspensions, 1921-1936
 
 Data
-- [Bank Suspensions, 1892-1935]({{ "/assets/frbull_banksus_193709.pdf" | absolute_url}})
+- [Bank Suspensions, 1892-1935]({{ "/assets/frbull_banksus_193709.pdf" | absolute_url}}) (PDF)
+- [Bank Suspensions, 1892-1946]({{ "/assets/Bank_Suspension_1892_1935.csv | absolute_url}}) (CSV)
 - Bank Suspensions in the United States, 1892-1931
 - Bank Suspensions, 1921-1936
 
