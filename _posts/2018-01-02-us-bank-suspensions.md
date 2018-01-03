@@ -12,7 +12,7 @@ Definition of Bank Suspensions
 
 Data
 - [Bank Suspensions, 1892-1935]({{ "/assets/frbull_banksus_193709.pdf" | absolute_url}}) (PDF)
-- [Bank Suspensions, 1892-1946]({{ "/assets/Bank_Suspension_1892_1935.csv | absolute_url}}) (CSV)
+- [Bank Suspensions, 1892-1946](https://github.com/johnrieth/johnrieth.github.io/blob/master/assets/Bank_Suspensions_1892_1935.csv) (CSV)
 - Bank Suspensions in the United States, 1892-1931
 - Bank Suspensions, 1921-1936
 
