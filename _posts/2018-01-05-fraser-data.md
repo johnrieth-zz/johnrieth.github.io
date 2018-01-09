@@ -4,6 +4,10 @@ title:  "FRASER data"
 date:   2018-01-02 17:34:06 -0800
 ---
 
+### Historical Documents
+
+The documents come from [FRASER](https://fraser.stlouisfed.org/) of the United States Federal Reserve. I am doing this project to open up economic data that is stuck in PDFs.
+
 Bank Suspensions and Failures in 19th and 20th century
 The datasets are from the Federal Reserve. The data are in PDFs so I will continue to add different data from the PDFs to this set. I am also adding analysis of bank failures that do not contain data.
 
@@ -16,11 +20,7 @@ Data
 - Bank Suspensions in the United States, 1892-1931
 - Bank Suspensions, 1921-1936
 
-Analysis
-- An Analysis of Bank Failures: 1984 to 1989
 
-### Historical Documents
-
-The documents come from [FRASER](https://fraser.stlouisfed.org/) of the United States Federal Reserve. 
+ 
 
 
