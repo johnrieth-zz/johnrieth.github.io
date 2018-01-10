@@ -18,7 +18,7 @@ Elisabeth A. Mason, founding director of the Stanford Poverty and Technology Lab
     - What incintive do employers have of giving their data?
     - Who will be responsible for writing and maintaining the code for predicting "the job openings of tomorrow"?
 
-"The point is that we now have the tools to take the guesswork out of which jobs are available and which skills workers need to fill them."
+- "The point is that we now have the tools to take the guesswork out of which jobs are available and which skills workers need to fill them."
     - I doubt the guesswork can ever be taken out. How many websites will exist for people to find available jobs?
         - More or less than there currently are? 
 
