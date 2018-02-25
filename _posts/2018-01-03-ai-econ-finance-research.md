@@ -21,7 +21,7 @@ The list of papers and links is going to a mess for a while I figure out the bes
 - [Machine Learning at Central Banks](https://www.bankofengland.co.uk/working-paper/2017/machine-learning-at-central-banks)
 - [The Economist as Plumber by Esther Duflo](https://economics.mit.edu/files/12569) (PDF)
 - [A.I. and Big Data Could Power a New War on Poverty by Elisabeth A. Mason](https://www.nytimes.com/2018/01/01/opinion/ai-and-big-data-could-power-a-new-war-on-poverty.html?_r=0) (NY Times)
-- [](https://arxiv.org/pdf/1712.08238.pdf)
+- [Interventions over Predictions: Reframing the Ethical Debate for Actuarial Risk Assessment](https://arxiv.org/pdf/1712.08238.pdf)
 - [What can machine learning do? Workforce implications by Erik Brynjolfsson and Tom Mitchell](http://science.sciencemag.org/content/358/6370/1530.full)
 - [Text as Data by Matthew Gentzkow, Bryan T. Kelly, and Matt Taddy](https://web.stanford.edu/~gentzkow/research/text-as-data.pdf)
 - [Choosing Among Machine Learning Estimators In Empirical Economics ](https://scholar.harvard.edu/kasy/publications/risk-machine-learning)
