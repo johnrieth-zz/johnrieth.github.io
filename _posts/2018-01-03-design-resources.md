@@ -14,3 +14,6 @@ date:   2018-02-16
 # Notes
 
 Just Enough Research
+
+
+ 
