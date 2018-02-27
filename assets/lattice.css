@@ -32,7 +32,6 @@
   border-radius: 5px;
   padding: 15px;
 }
-
 @media (min-width: 500px) {
   .content,
   .main-footer {
@@ -63,11 +62,13 @@
   }
 }
 
+
 @media (min-width: 400px) {
   .container {
-    width: 85%;
+    width: 90%;
   }
 }
+/*
 
 @media (min-width: 550px) {
   .container {
@@ -254,3 +255,42 @@ li {
     border-left: 0;
     border-right: 0;
   }
+
+/* Buttons
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+  button,
+  [type=button],
+  [type=submit],
+  [type=reset] {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    margin-top: 1rem;
+    margin-right: 0.5em;
+    margin-bottom: 1rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: #59819c;
+    border: 0;
+    border-radius: 10px;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 700;
+    line-height: 1;
+    padding: 1rem 1rem;
+    text-align: center;
+    text-decoration: none;
+  }
+
+/* Code
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+  code {
+
+}
+
+
+pre > code {
+
+}

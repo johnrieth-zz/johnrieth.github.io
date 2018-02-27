@@ -11,9 +11,4 @@ date:   2018-02-16
 - [The Elements of Content Strategy by Erin Kissane](https://abookapart.com/products/the-elements-of-content-strategy)
 
 
-# Notes
-
-Just Enough Research
-
-
  
