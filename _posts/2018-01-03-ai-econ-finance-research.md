@@ -16,7 +16,8 @@ The list of papers and links is going to a mess for a while I figure out the bes
 - [Deep Learning: The Straight Dope](http://gluon.mxnet.io/index.html) (MXNet)
 - [fast.ai](http://www.fast.ai/) Two courses on Deep Learning and one on Linear Algebra 
 - [scikit-learn](http://scikit-learn.org/stable/tutorial/index.html) scikit-learn tutorials
-
+- [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
+- [PyTorch tutorials](http://pytorch.org/tutorials/)
 
 # Economics
 - [Machine Learning at Central Banks](https://www.bankofengland.co.uk/working-paper/2017/machine-learning-at-central-banks)
