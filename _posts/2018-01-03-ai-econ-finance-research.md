@@ -9,6 +9,7 @@ The list of papers and links is going to a mess for a while I figure out the bes
 # General
 - [Deep Learning: A Critical Approach by Gary Marcus](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf) (PDF)
 - [The Parable of Google Flu: Traps in Big Data Analysis by David Lazer, Ryan Kennedy, Gary King, Alessandro Vespignani](https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf) (PDF)
+- [Peter Norvig's Library](https://books.google.com/books?uid=111815788291054011027&as_coll=1009&source=gbs_lp_bookshelf_list)
 
 
 # Learning
@@ -34,7 +35,4 @@ The idea is to design an agent that is similar to Siri/Alexa/Google Assistant fo
 
 I think the CBA is going to be primarily a recommender system to make recommendations to the Central Bank on policy decisions. Natural Language Processing is going to be involved for the CBA to ingest documents. 
 
-__RegBot__
-
- Knowledge Extraction could be useful for extracting information from regulation documents. Using something like [Facebook's DrQA](https://github.com/facebookresearch/DrQA). DrQA is a system for answering questions using Wikipedia. I feel it is possible to use DrQA for financial regulations. The challenge will be getting the bot understand how a certain regulation interacts with a company's business. The project could take advantage of the [Corpus Legis](http://corpuslegis.org/) project from Stanford. 
 
