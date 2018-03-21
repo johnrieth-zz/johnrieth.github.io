@@ -10,6 +10,8 @@ The plain RNN and LSTM at epoch 49 resemble MiFID II the most but are still not 
 
 #### Plain RNN
 
+[Notebook](https://github.com/johnrieth/FinancialResearch/blob/master/NLU/mifid%20II%20plain%20rnn.ipynb)
+
 __Epoch 0. Loss: 77.03520176790099__
 
 The committee shall submit the investment firm or market operators of the investment firm or market operators operating an MTF or an OTF to be abequard to the investment firm or market operators operating an MTF or an OTF shall submit those draft regulatory technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical standards to the Commission to adopt the implementing technical s
@@ -40,6 +42,8 @@ The committee shall be informed of a regulated market to the competent authority
 
 #### GRU
 
+[Notebook](https://github.com/johnrieth/FinancialResearch/blob/master/NLU/GRUs.ipynb)
+
 __Epoch 0. Loss: 2.9113809377981266__
 
 Traders wille the the the the the the the the the the therentiontite the the the therentiontintiontis ontiontionses the the the the the the the the the the the the the the the the the the the theres the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the therentiontins antiontins the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the therentiontiontiontiontis ons the the the the the the theres ontintiontiontis onte the the therentiontis on the the the the the the the the the the the the the the the therentiontiontiontiontins the the the the the the the the the the the the the the the the theres the the the the the the theres the the the the the the the therention the theres thes the the the the the the the the the the the the the theres the the the the the the the the the the thes ont
@@ -54,6 +58,8 @@ Traders will be able to require the conditions for investment firms and the cond
 
 ​
 #### LSTM
+
+[Notebook](https://github.com/johnrieth/FinancialResearch/blob/master/NLU/LSTM%20RNNs.ipynb)
 
 __Epoch 0. Loss: 3.2066613358610434__
 
