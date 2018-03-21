@@ -30,10 +30,10 @@ The list of papers and links is going to a mess for a while I figure out the bes
 
 # Ideas
 
-__Designing a Central Bank Governor__
+__Designing a Central Bank Assistant (CBA)__
 
-The idea is to design an agent that is similar to Siri/Alexa/Google Assistant for central bankers. Central bankers should be able to ask the agent questions that could be asked of similar central bankers. Such as "Should we raise rates?" and "What will unemployment be in two years?" Synthesizing research will also be useful to help make decisions. A problem is what kind of research should be given to the CBA. Feeding in poorly done research will harm the potential efficacy of the CBA. The Central Bank Assistant (CBA) should not become a voting member in anything similar to the ... The CBA cannot be objective as it will be programmed by humans and fed information that has been created by humans. 
+The idea is to design an agent that is similar to Siri/Alexa/Google Assistant for central bankers. Central bankers should be able to ask the agent questions that could be asked of similar central bankers. Such as "Should we raise rates?" and "What will unemployment be in two years?" Synthesizing research will also be useful to help make decisions. A problem is what kind of research should be given to the CBA. Feeding in poorly done research will harm the potential efficacy of the CBA. The CBA cannot be objective as it will be programmed by humans and fed information that has been created by humans. 
 
-I think the CBA is going to be primarily a recommender system to make recommendations to the Central Bank on policy decisions. Natural Language Processing is going to be involved for the CBA to ingest documents. 
+ Information retrieval and question answering will be necessary parts for a useful CBA.
 
 
