@@ -1,11 +1,8 @@
-* {
-  box-sizing: border-box;
-}
 
 *,
 *::after,
 *::before {
-  box-sizing: inherit;
+  box-sizing: border-box;
 }
 
 body {
@@ -275,12 +272,6 @@ td {
 }
 */
 
-.main-footer {
-  display: grid;
-  align-items: center;
-  grid-template-columns: repeat(12, [col-start] 1fr);
-  grid-gap: 20px;
-}
 
 @media (min-width: 1201px) {
   footer {
