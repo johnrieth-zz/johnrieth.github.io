@@ -1,16 +1,15 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="hello">
 
-  <header>
-    <h2 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h2>
+    <h1 >{{ page.title | escape }}</h1>
     
-  </header>
 
-    <div class="section">
+    <section>
     {{ content }}
-  </div>
+    </section>
 
+    <a class="back" href="/">Back Home</a>
 
 </article>

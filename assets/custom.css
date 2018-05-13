@@ -1,0 +1,22 @@
+article.hello {
+    padding: 0;
+    position: relative;
+}
+
+.back {
+    font-size: 1.5rem;
+}
+
+
+
+body.restart { width: 87.5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 12.5%;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+    SimSun, sans-serif;
+    background-color: #fff1e5;
+    color: #111;
+    max-width: 1400px;
+    counter-reset: sidenote-counter; }
