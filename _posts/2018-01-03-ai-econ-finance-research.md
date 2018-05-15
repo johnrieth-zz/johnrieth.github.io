@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sketches of Artificial Intelligence in Economic and Financial Research"
-date:   2018-01-03
+title: Sketches of Artificial Intelligence in Economic and Financial Research
+categories: artificial-intelligence finance
 ---
 # General
 
