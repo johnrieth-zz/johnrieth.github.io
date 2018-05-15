@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Design Resources and Notes"
-date:   2018-02-16
+title: Design Resources and Notes
+categories: design reading
 ---
 # Reading
 
