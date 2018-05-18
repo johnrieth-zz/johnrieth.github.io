@@ -47,7 +47,9 @@ ol {
   padding: 0;
 }
 
-
+.post a {
+  text-decoration: underline;
+}
 
 
 
@@ -135,7 +137,9 @@ samp {
     padding-left: 3rem; } }
 
 
-
+a.back {
+  margin-top: 2rem;
+}
 
 .cal-section-light {
   background-color: #f1f1f1;
