@@ -1,0 +1,257 @@
+@charset "utf-8";
+
+:root {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+    SimSun, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    --base-font-size: 1.5rem;
+    --base-font-weight: 400;
+    line-height: 1.15;
+    overflow-x: hidden;
+    tab-size: 4;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: scrollbar;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+
+
+}
+
+html.fun {
+        --bgc: #ffd6f2;
+        --text: #00008b;
+        --link: #220b38;
+        --link-active: #9a12b3;
+        --heading: #00008b;
+        --nav: #00008b;
+        --border: #9a12b3;
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+html,
+body {
+    background-color: var(--bgc);
+    color: var(--text);
+  font-weight: var(--base-font-weight);
+  margin: 5vw auto;
+  text-align: center;
+}
+
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+header h1 {
+  margin: 0 0 0.5em;
+  font-size: 1.8rem;
+}
+@media (min-width: 500px) {
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  header h1 {
+    margin: 0 1em 0 0;
+  }
+}
+header nav ul {
+  display: flex;
+  margin-bottom: 4px;
+  justify-content: space-between;
+}
+@media (min-width: 300px) {
+  header nav li {
+    flex: auto;
+    margin-right: 1em;
+    padding-right: 1em;
+    border-right: 1px solid #000;
+  }
+}
+@media (min-width: 580px) {
+  header nav ul {
+    flex-wrap: wrap;
+  }
+}
+header nav li:last-child {
+  border: none;
+  margin-right: 0;
+  padding-right: 0;
+}
+
+th,
+td {
+  background-color: var(--bgc);
+  font-weight: 400;
+  padding: 1rem 1.5rem;
+}
+
+img {
+  border-style: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace;
+  font-size: 1em;
+}
+
+.cal {
+  max-width: 1040px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cal::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+
+.cal {
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+@media screen and (min-width: 600px) {
+  .cal {
+    padding-right: 3rem;
+    padding-left: 3rem; } }
+
+
+.cal div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cal-hero {
+  /* autoprefixer: off */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-gap: 2em;
+  margin: 2rem 0;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-position: center;
+  background-size: cover;
+}
+@media (max-width: 880px) {
+  .cal-hero {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+.cal-section-light {
+  background-color: #f1f1f1;
+
+}
+
+.cal-section-dark {
+  background-color: #112e51;
+  color: #ffffff;
+
+}
+
+.cal-section {
+
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+grid-gap: 2rem;
+}
+
+.cal-section div {
+  /* autoprefixer: off */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1em 5% 1em;
+  padding: 0 1rem;
+}
+.cal-section div h2 {
+  margin: 1em 0 0.25em;
+  font-size: 1.8rem;
+}
+.cal-section div img {
+  order: -1;
+  max-width: 100px;
+}
+.cal-section div p {
+  font-size: 0.9rem;
+  margin-bottom: 0;
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+hr {
+  height: 0;
+}
+
+small {
+  font-size: 80%;
+}
+
+a {
+  background-color: transparent;
+  color: var(--link);
+}
+
+
+a:hover, a:focus {
+    color: var(--link-active);
+}
+
+button {
+  border-radius: 0;
+}
+
+button:focus {
+  outline: 1px dotted;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+img {
+  border-style: none;
+}
+
+footer {
+  margin-top: 1rem;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  padding: 1rem;
+  font-size: 0.8em;
+}
+footer p {
+  margin: 0;
+}
+footer a {
+  text-decoration: underline;
+}

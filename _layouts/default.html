@@ -1,12 +1,18 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html class="fun" lang="{{ page.lang | default: site.lang | default: "en" }}">
   {% include head.html %}
+  <header role="banner">
+    <h1><a href="/">John Rieth</a></h1>
+    <nav role="navigation"><ul>
+      <li><a href="/ideas/">Ideas</a></li>
+    </ul></nav>
+  </header>
+
+  <body class="cal">
 
 
-  <body class="restart">
 
-
-    <article class="hello">
+    <article >
       {{ content }}
     </article>
 
