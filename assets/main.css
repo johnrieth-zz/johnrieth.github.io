@@ -39,6 +39,7 @@ body {
     background-color: var(--bgc);
     color: var(--text);
   font-weight: var(--base-font-weight);
+ padding-top: 1.5rem;
 }
 
 ol {
@@ -66,36 +67,27 @@ header h1 {
 @media (min-width: 500px) {
   header {
     display: flex;
-    justify-content: space-between;
     align-items: flex-end;
   }
   header h1 {
     margin: 0 1em 0 0;
   }
-}
-header nav ul {
-  display: flex;
-  margin-bottom: 4px;
-  justify-content: space-between;
-}
-@media (min-width: 300px) {
-  header nav li {
-    flex: auto;
-    margin-right: 1em;
-    padding-right: 1em;
-    border-right: 1px solid #000;
+
+  header h2 {
+    margin: 0 1em 0 0;
+
   }
 }
-@media (min-width: 580px) {
-  header nav ul {
-    flex-wrap: wrap;
-  }
+
+header h2 {
+  font-size: 1.6rem;
 }
-header nav li:last-child {
-  border: none;
-  margin-right: 0;
-  padding-right: 0;
+
+article a {
+  text-decoration: none;
 }
+
+
 
 th,
 td {
