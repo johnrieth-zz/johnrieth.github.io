@@ -22,7 +22,7 @@
 }
 
 html.fun {
-        --bgc: #ffd6f2;
+        --bgc: #ffe3f6;
         --text: #00008b;
         --link: #220b38;
         --link-active: #9a12b3;
@@ -39,11 +39,18 @@ body {
     background-color: var(--bgc);
     color: var(--text);
   font-weight: var(--base-font-weight);
-  margin: 5vw auto;
-  text-align: center;
 }
 
-ul, li {
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+ul {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -137,30 +144,7 @@ samp {
     padding-left: 3rem; } }
 
 
-.cal div {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-}
 
-.cal-hero {
-  /* autoprefixer: off */
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
-  grid-gap: 2em;
-  margin: 2rem 0;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-position: center;
-  background-size: cover;
-}
-@media (max-width: 880px) {
-  .cal-hero {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-  }
-}
 
 .cal-section-light {
   background-color: #f1f1f1;
@@ -240,18 +224,4 @@ select {
 
 img {
   border-style: none;
-}
-
-footer {
-  margin-top: 1rem;
-  margin-left: 5vw;
-  margin-right: 5vw;
-  padding: 1rem;
-  font-size: 0.8em;
-}
-footer p {
-  margin: 0;
-}
-footer a {
-  text-decoration: underline;
 }
