@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sketches of Artificial Intelligence in Economic and Financial Research
-categories: artificial-intelligence finance
+title: Thoughts on Artificial Intelligence in Economic and Financial Research
+description: thoughts about the role artificial intelligence in economic and financial research
 ---
 # General
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design Resources and Notes
-categories: design reading
+description: notes on design
 ---
 # Readings
 
