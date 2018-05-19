@@ -7,7 +7,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    --base-font-size: 1.5rem;
+    --base-font-size: 1.2rem;
     --base-font-weight: 400;
     line-height: 1.15;
     overflow-x: hidden;
@@ -41,6 +41,7 @@ html,
 body {
     background-color: var(--bgc);
     color: var(--text);
+    font-size: var(--base-font-size);
   font-weight: var(--base-font-weight);
  padding-top: var(--padding-sm);
 }
@@ -84,9 +85,7 @@ header h1 {
   }
 }
 
-header h2 {
-  font-size: 1.6rem;
-}
+
 
 article a {
   text-decoration: none;
@@ -130,11 +129,15 @@ samp {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 1.7rem;
 }
 
 h2 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
+}
+
+h3 a {
+  text-decoration: none;
 }
 
 .cal {

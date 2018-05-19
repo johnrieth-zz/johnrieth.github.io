@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Artificial Intelligence in Economic and Financial Research
+title: Artificial Intelligence in Economic and Financial Research
 description: thoughts about the role artificial intelligence in economic and financial research
 ---
 # General
