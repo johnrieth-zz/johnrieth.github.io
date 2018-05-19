@@ -27,7 +27,7 @@ description: notes on design
 * Progress bars don't ensure that the user achieves their goals (13)
   * too internally focused
 * "modern onboarding focuses on the user and what they want to achieve" (15)
-  * What jobs has the product been hired for? 
+  * What jobs has the product been hired for?
   * What are people trying to achieve with the product? (15)
 * "If you want more people to adopt your product, you have to make sure you know what progress looks like in your user's life, not just on their screen." (23)
 * Ask questions to people who recently went through the onboarding process (26)

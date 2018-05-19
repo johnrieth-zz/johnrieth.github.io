@@ -58,7 +58,6 @@ ol {
 
 
 ul {
-  list-style: none;
   margin: 0;
   padding: 0;
 }
@@ -85,7 +84,10 @@ header h1 {
   }
 }
 
-
+ul > li > ul {
+  padding-left: 1rem;
+  padding-top: .5rem;
+}
 
 article a {
   text-decoration: none;
@@ -155,7 +157,7 @@ ol {
 }
 
 li {
-   line-height: 1.5;
+  
   margin-bottom: 0.5em;
   
 }
