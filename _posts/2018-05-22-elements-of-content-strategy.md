@@ -40,3 +40,10 @@ Content audit: understand what content already exists and who "owns" the content
 "document the publishing flow: how content is planned, created, approved, produced, and maintained" (54)
 
 Competitive review: an audit of a competitor's content. Understand and write down what seems to work and not work
+
+Understand "what the content on each page is supposed to accomplish" (60)
+
+Content management (69)
+   * Create a schedule for editorial reviews of content
+   * "translation and localization efforts"
+   * "Editorial planning sessions to define change in theme and to introduce new campaigns"

@@ -84,8 +84,24 @@ body {
 
 .cal-header {
   overflow: hidden;
+  display: flex;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
 }
 
+@media screen and (min-width: 600px) {
+  .cal-header {
+    padding-right: 3rem;
+    padding-left: 3rem;
+  }
+}
+
+.cal-header a {
+  display: inline-block;
+  padding: 20px;
+  font-size: 1.5rem;
+
+}
 
 
 .home {
@@ -102,8 +118,8 @@ body {
 }
 
 .home a {
-  font-size: 1.5rem;
-  padding-top: 1rem;
+  font-size: 1.25rem;
+  padding-top: 1.15rem;
 }
 
 
