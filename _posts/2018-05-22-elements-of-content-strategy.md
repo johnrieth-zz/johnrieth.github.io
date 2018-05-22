@@ -20,13 +20,23 @@ Create a plan for creating, updating, and maintaining content. The maintenance o
    * Content has a lifecycle
    * Will only happen when it is a job for someone
 
-People enjoy stories. Content tells a story. Make sure your content is a story.
-
 Know the resources available. Trying to implement a new content strategy without the necessary resources will fail (22)
 
 Design should not be in the way of people engaging with content (26)
    * Reduce design noise
 
-Respect the multitudes of being a person when designing
-
 Content is about selling an action, idea, or product
+
+Information architects "build structures that help users find what they're looking for and accomplish the task they set out to do" (34)
+
+Content strategy "produces plans, guidelines, schedules, and goals for content" (37)
+
+Be an advocate for the user. Without the user you will fail to achieve business goals (47)
+
+What are the success criterias for the project? (50)
+
+Content audit: understand what content already exists and who "owns" the content
+
+"document the publishing flow: how content is planned, created, approved, produced, and maintained" (54)
+
+Competitive review: an audit of a competitor's content. Understand and write down what seems to work and not work
