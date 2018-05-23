@@ -3,6 +3,8 @@ layout: post
 title: Fun with service workers for government websites
 categories: design service-workers
 ---
+#Fun with service workers
+
 Service workers give developers the ability to provide fast and offline experiences for users. [Progressive web apps](https://developer.mozilla.org/en-US/Apps/Progressive) use service workers and other web APIs to make web apps have a similar experience as native apps. I have created two examples using service workers with the [U.S. Web Design System landing page template](https://designsystem.digital.gov/page-templates/landing/). I used the template because I find it easy to work with and wanted to see how a government site might take advantage of service workers. 
 
 1. Example one uses [workbox](https://developers.google.com/web/tools/workbox/), a tool from Google that adds offline support for websites. The example site using workbox is available at <https://johnrieth.github.io/uswds-sw/>. The service worker registers but the site doesn't load offline. 

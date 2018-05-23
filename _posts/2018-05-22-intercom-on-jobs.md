@@ -4,6 +4,8 @@ title: Intercom on Jobs-to-be-Done
 description: notes on Intercom's book Jobs-to-be-Done
 category: design
 ---
+# Intercom on Jobs-to-be-Done
+
 
 - "great products [are] built around solving problems" (6)
 - "Why do people hire your product?" (16)

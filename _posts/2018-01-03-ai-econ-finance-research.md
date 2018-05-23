@@ -3,7 +3,9 @@ layout: post
 title: Artificial Intelligence in Economic and Financial Research
 description: thoughts about the role artificial intelligence in economic and financial research
 ---
-# General
+# Artificial Intelligence in Economic and Financial Research
+
+## General
 
 - [Deep Learning: A Critical Approach by Gary Marcus](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf) (PDF)
 - [The Parable of Google Flu: Traps in Big Data Analysis by David Lazer, Ryan Kennedy, Gary King, Alessandro Vespignani](https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf) (PDF)
