@@ -18,7 +18,7 @@ description: thoughts about the role artificial intelligence in economic and fin
 - [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
 - [PyTorch tutorials](http://pytorch.org/tutorials/)
 
-## Economics
+### Economics
 
 - [Machine Learning at Central Banks](https://www.bankofengland.co.uk/working-paper/2017/machine-learning-at-central-banks)
 - [The Economist as Plumber by Esther Duflo](https://economics.mit.edu/files/12569) (PDF)
