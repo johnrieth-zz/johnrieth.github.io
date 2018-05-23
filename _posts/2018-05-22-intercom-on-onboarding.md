@@ -3,7 +3,6 @@ layout: post
 title: Intercom on Onboarding
 category: design
 ---
-# Intercom on Onboarding
 
 * Onboarding is part of the product and an experience that all users will experience (4)
 * Onboarding is about getting your customers to success (6)

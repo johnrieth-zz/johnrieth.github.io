@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Design Resources and Notes
+title: Design Resources 
 description: notes on design
 category: design
 ---
-# Design Resources
 
 * [Intercom on Onboarding](https://www.intercom.com/books/onboarding)
 * [Inclusive Microsoft Design](https://www.microsoft.com/en-us/design/inclusive)

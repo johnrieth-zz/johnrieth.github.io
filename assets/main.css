@@ -82,6 +82,9 @@ body {
   }
 } 
 
+.cal-grid > p {
+  margin: .5em;
+}
 
 nav > ul{
   list-style-type: none;
@@ -95,10 +98,11 @@ nav > ul > li {
   float: left;
 }
 
-nav > ul > li > a {
+nav > ul > li > h1 {
   display: block;
   text-align: center;
-  padding: 14px 16px;
+  padding: 3.75px 4.25px;
+  margin-bottom: 12px;
 }
 
 
@@ -130,8 +134,17 @@ ol {
   padding: 0;
 }
 
+ol > li {
+  list-style-position: inside;
+  padding-bottom: .5rem;
+}
+
 .hidden,
 [hidden] {
   display: none;
+}
+
+.cal-grid > ol {
+  margin: 9.68px;
 }
 
