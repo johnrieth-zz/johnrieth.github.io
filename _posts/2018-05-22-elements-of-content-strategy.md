@@ -5,7 +5,6 @@ category: design
 ---
 ### The Elements of Content Strategy by Erin Kissane
 
-
 "Content strategy plans for the creation, publication, and governance of useful, usable content." - Kristina Halvorson (1)
 
 Content strategy "Allows organizations to develop realistic, sustainable, and measurable publishing plans that keep their content on track in the long term" (1)
