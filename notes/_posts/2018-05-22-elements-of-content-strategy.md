@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes on The Elements of Content Strategy 
-category: design
+category: notes
 ---
 
 "Content strategy plans for the creation, publication, and governance of useful, usable content." - Kristina Halvorson (1)

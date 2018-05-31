@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intercom on Onboarding
-category: design
+category: notes
 ---
 
 * Onboarding is part of the product and an experience that all users will experience (4)

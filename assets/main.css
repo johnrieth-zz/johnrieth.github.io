@@ -7,7 +7,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  --base-font-size: 1.25rem;
+  --base-font-size: 1.2rem;
   --base-font-weight: 400;
   line-height: 1.15;
   overflow-x: hidden;
@@ -62,14 +62,14 @@ body {
   margin-right: auto;
   display: grid;
   grid-auto-flow: row;
-  align-content: center;
+  align-items: center;
   
 }
 
 .cal-grid::after {
   clear: both;
   content: "";
-}
+}i
 
 .cal-grid {
   padding-right: 1.5rem;
@@ -103,25 +103,20 @@ nav > ul > li > h1 {
   display: block;
   text-align: center;
   padding: 4.5px 7px;
-  margin-bottom: 12px;
+  margin: 0;
+  font-size: 1.2rem;
 }
 
 
 
 
 .home {
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
+ 
   padding-top: .75rem;
-  align-content: center;
+  align-items: center;
 }
 
-@media screen and (min-width: 600px) {
-  .home {
-    padding-right: 3rem;
-    padding-left: 3rem;
-  }
-}
+
 
 .home:last-child {
   padding-bottom: 1.25rem;
