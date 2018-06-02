@@ -16,7 +16,7 @@
 title: John Rieth
 email: john.rieth@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Research and Design by John Rieth
+  Research and Design
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.johnrieth.com/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  johnrieth

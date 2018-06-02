@@ -7,7 +7,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  --base-font-size: 1.2rem;
+  --base-font-size: 1.15rem;
   --base-font-weight: 400;
   line-height: 1.15;
   overflow-x: hidden;
@@ -57,12 +57,16 @@ body {
   min-height: 100vh;
 }
 
+h3 {
+  font-size: 1.2rem;
+}
 .cal-grid {
   margin-left: auto;
   margin-right: auto;
   display: grid;
   grid-auto-flow: row;
   align-items: center;
+
   
 }
 
@@ -123,7 +127,7 @@ nav > ul > li > h1 {
 }
 
 .home a {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 
