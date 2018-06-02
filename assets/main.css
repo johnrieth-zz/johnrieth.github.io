@@ -66,6 +66,7 @@ h3 {
   display: grid;
   grid-auto-flow: row;
   align-items: center;
+  max-width: 60rem;
 
   
 }
