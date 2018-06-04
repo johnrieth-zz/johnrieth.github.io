@@ -28,6 +28,7 @@ category: research
 - [What can machine learning do? Workforce implications by Erik Brynjolfsson and Tom Mitchell](http://science.sciencemag.org/content/358/6370/1530.full)
 - [Text as Data by Matthew Gentzkow, Bryan T. Kelly, and Matt Taddy](https://web.stanford.edu/~gentzkow/research/text-as-data.pdf)
 - [Choosing Among Machine Learning Estimators In Empirical Economics](https://scholar.harvard.edu/kasy/publications/risk-machine-learning)
+- [Advances in Financial Machine Learning by Marcos Lopez de Prado](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
 
 ### Designing a Central Bank Assistant (CBA)
 
