@@ -1,0 +1,21 @@
+---
+layout: post
+---
+
+
+    {% for post in site.posts %}
+    {% if post.categories contains 'policy' %}
+    <article>
+      <h3><a href="{{post.url | prepend: site.baseurl }}">{{post.title}}</a></h3>
+  
+    
+  
+  
+    
+  
+  </article>
+
+      {% endif %}
+    {% endfor %}
+
+    
