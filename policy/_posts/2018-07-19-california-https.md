@@ -14,6 +14,7 @@ Not all publicly accessible California government websites use [Hypertext Transf
 To increase the adoption of HTTPS the CDT shall make [Let's Encrypt](https://letsencrypt.org/) the primary issuer of digital certificates and downgrade the [current certificate authority](https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/03/Secure-Certificate-Guideline.pdf), [Comodo](https://www.comodoca.com/en-us/solutions/tls-ssl-certificates/) to be a secondary issuer.
 
 **Reasons to switch**
+
 - Let's Encrypt
     - Simplify adoption
         - [Let's Encrypt allows for automatic renewal](https://letsencrypt.org/about/)
@@ -29,8 +30,7 @@ To increase the adoption of HTTPS the CDT shall make [Let's Encrypt](https://let
 
 **Why I am wrong**
 
-I do not know that the use of Let's Encrypt will simplify and increase HTTPS adoption in the California government. The administrative and development costs of switching certificate issuers could cause more harm than good.  
-
+I do not know if the use of Let's Encrypt will simplify and increase HTTPS adoption in the California government. The administrative and development costs of switching certificate issuers could have more costs than benefits.  
 **References**
 
 [American Government: The HTTPS-Only Standard](https://https.cio.gov/)
