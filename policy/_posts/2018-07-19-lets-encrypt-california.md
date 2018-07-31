@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Encrypt all California government websites
+title: Let's Encrypt California
 description: secure web for californians https
 category: policy
 ---
