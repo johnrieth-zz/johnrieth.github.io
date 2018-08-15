@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next steps for the California Innovation Lab
+title: Next Steps for the California Innovation Lab
 description: california innovation lab  security
 category: policy
 ---
