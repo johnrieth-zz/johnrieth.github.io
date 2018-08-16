@@ -11,7 +11,7 @@ The California state government needs policies to foster AI growth and increase 
 
 ### Policies for the California State Government
 
-I believe the state government will be the most effective by implementing policies that do not directly target the research, development, and deployment of AI. These policies are what Miles Brundage and Joanna Bryson call indirect and AI-relevant policies in their paper [Smart Policies for Artificial Intelligence](https://arxiv.org/abs/1608.08196). A reason for focusing on indirect policies is that the policy outcomes will be beneficial to people in California . The policies below will be challenging to implement, may not be the correct policies, and expensive. 
+The state government will be the most effective by implementing policies that do not directly target the research, development, and deployment of AI. These policies are what Miles Brundage and Joanna Bryson call indirect and AI-relevant policies in their paper [Smart Policies for Artificial Intelligence](https://arxiv.org/abs/1608.08196). A reason for focusing on indirect policies is that the policy outcomes will be beneficial to people in California . The policies below will be challenging to implement, may not be the correct policies, and expensive. 
 
 ### Indirect
 
