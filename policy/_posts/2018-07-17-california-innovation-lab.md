@@ -16,6 +16,6 @@ The [California Innovation Lab](https://innovate.ca.gov/FAQs/) gives state emplo
 
 **Web organizations**
 
-- Become a member of the [World Wide Web Consortium (W3C)](https://www.w3.org/Consortium/). Membership for a [government agency costs $7,900 a year](https://www.w3.org/Consortium/fees?countryCode=US&quarter=01-01&year=2019#results).
+- Become a member of the [World Wide Web Consortium (W3C)](https://www.w3.org/Consortium/) to support . Membership for a [government agency costs $7,900 a year](https://www.w3.org/Consortium/fees?countryCode=US&quarter=01-01&year=2019#results). Becoming a member of the W3C
 - Financially support the [Internet Engineering Task Force (IETF)](https://ietf.org/about/) and allow a select number state employees to participate in working groups to make a better internet. [Sponsorship of a Hackathon is $40,000](https://ietf.org/how/runningcode/hackathons/).
 - Work with the [UC Berkeley Center for Long-Term Cybersecurity](https://cltc.berkeley.edu/) to research innovative tools and policies for protecting Californians online.
