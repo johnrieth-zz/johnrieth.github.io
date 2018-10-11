@@ -11,7 +11,7 @@ Not all publicly accessible California government websites protect visitors with
 
 ### Policy
 
-To increase the adoption of HTTPS the CDT shall make [Let's Encrypt](https://letsencrypt.org/) the primary issuer of digital certificates and make the [current issuer](https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/03/Secure-Certificate-Guideline.pdf), [Comodo](https://www.comodoca.com/en-us/solutions/tls-ssl-certificates/) a secondary issuer.
+To increase the adoption of HTTPS the CDT should make [Let's Encrypt](https://letsencrypt.org/) the primary issuer of digital certificates and make the [current issuer](https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/03/Secure-Certificate-Guideline.pdf), [Comodo](https://www.comodoca.com/en-us/solutions/tls-ssl-certificates/) a secondary issuer.
 
 ### Reasons to switch
 
