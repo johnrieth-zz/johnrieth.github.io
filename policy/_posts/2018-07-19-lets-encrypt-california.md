@@ -7,11 +7,13 @@ category: policy
 
 ### Background
 
-Not all publicly accessible California government websites protect visitors with [Hypertext Transfer Protocol Secure (HTTPS)](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https). HTTPS is necessary for California government websites because the protocol provides ["a fast, secure connection that offers the level of privacy and reliability that users should expect from government web services"](https://https.cio.gov/everything/). The [California Department of Technology (CDT)](https://cdt.ca.gov/) needs to increase the adoption of HTTPS to ensure that all government websites are secure.
+Not all publicly accessible California government websites protect visitors with [Hypertext Transfer Protocol Secure (HTTPS)](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https). HTTPS is necessary because the protocol provides ["a fast, secure connection that offers the level of privacy and reliability that users should expect from government web services"](https://https.cio.gov/everything/). The [California Department of Technology (CDT)](https://cdt.ca.gov/) needs to increase the adoption of HTTPS to ensure that all government websites protect the information of users.
 
 ### Policy
 
-To increase the adoption of HTTPS the CDT should make [Let's Encrypt](https://letsencrypt.org/) the primary issuer of digital certificates and make the [current issuer](https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/03/Secure-Certificate-Guideline.pdf), [Comodo](https://www.comodoca.com/en-us/solutions/tls-ssl-certificates/) a secondary issuer.
+To increase the adoption of HTTPS the CDT should make [Let's Encrypt](https://letsencrypt.org/) the primary issuer of digital certificates and make the [main](https://transparencyreport.google.com/https/certificates?hl=en&cert_search_auth=&cert_search_cert=&cert_search=include_expired:false;include_subdomains:true;domain:ca.gov&lu=cert_search) [issuer](https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/03/Secure-Certificate-Guideline.pdf), [Comodo](https://www.comodoca.com/en-us/solutions/tls-ssl-certificates/) a secondary issuer. The goal is to have all state government use Let's Encrypt.
+
+The CDT should adapt [Pulse](https://pulse.cio.gov/) to track the progress of HTTPS adoption. Pulse is a tool from the General Services Administration that measures the use of HTTPS and 
 
 ### Reasons to switch
 
